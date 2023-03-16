@@ -36,11 +36,10 @@ I am a Software Developer and DevOps Enthusiast </br>
 ---
 
 ### 🔥 &nbsp; My Stats :
-![My Stats](https://github-readme-stats.vercel.app/api?username=BenniWi&show_icons=true&theme=gruvbox&bg_color=000000&text_color=FFFFFF)
+![My Stats](https://github-readme-stats.vercel.app/api?username=BenniWi&show_icons=true&theme=gruvbox&bg_color=000000&text_color=FFFFFF&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenniWi&layout=compact&theme=vision-friendly-dark)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenniWi&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenniWi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
